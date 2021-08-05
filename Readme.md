@@ -14,13 +14,13 @@ ubicada en la ciudad de Querétaro.
 - Tratar de clasificar tanto buenos y malos clientes como productos utilizando Machine Learning
 
 ## ¿Qué hay en este repositorio?
-En este repositorio encontraras el [Dataset Original](https://) y el archivo .ipynb [Limpieza_Priyecto](https://), donde se limpió el dataset, se hicieron agrupaciones 
+En este repositorio encontraras el [Dataset Original](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/VIII-16-Entendimiento-de-ingresos-2019.csv) y el archivo .ipynb [Limpieza_Proyecto](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Limpieza_Proyecto.ipynb), donde se limpió el dataset, se hicieron agrupaciones 
 y se hizo un primer análisis exploratorio de los datos. En este se encontraron los Top 10 de clientes que más ventas hicieron y que más pérdidas generaron. Lo mismo para los productos.
 
-El segundo paso se encuentra en el archivo [Analisis_de_Proyecto-Copy1](https://), ya con un dataset limpio se buscó implementar un algoritmo de aprendizaje supervisado 
+El segundo paso se encuentra en el archivo [Analisis_de_Proyecto-Copy1](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Analisis_de_proyecto-Copy1.ipynb), ya con un dataset limpio se buscó implementar un algoritmo de aprendizaje supervisado 
 para predecir en qué categoría (venta/cancelación) caería un cliente, sin embargo, la naturaleza de los datos no lo permite. Es por esto que se opta por implementar un algoritmo de 
 aprendizaje no supervisado (K-Medias) para un dataset de clientes y otro de productos para ver si de alguna manera se agrupan.
 
-Por último se hace un pequeño análisis exploratorio de los nuevos datasets donde ya se le asignó una categoría a los [clientes](https://) y a los [productos](https://) para posteriormente volver a implementar 
+Por último se hace un pequeño análisis exploratorio de los nuevos datasets donde ya se le asignó una categoría a los [clientes](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Clusters_Clientes_KM.csv) y a los [productos](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Clusters_Productos_KM.csv) para posteriormente volver a implementar 
 un algoritmo supervisado para predecir en qué cluster o categoría caerá cierto cliente o cierto producto. Nuevamente no se obtuvieron resultados favorables, sin embargo se pueden generar 
-algunas conclusiones a partir de la gráfica de dispersión de K-Medias y y las observaciones del primer análisis en [Limpieza_Priyecto](https://).
+algunas conclusiones a partir de la gráfica de dispersión de K-Medias y y las observaciones del primer análisis en [Limpieza_Proyecto](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Limpieza_Proyecto.ipynb).

@@ -24,3 +24,5 @@ aprendizaje no supervisado (K-Medias) para un dataset de clientes y otro de prod
 Por último se hace un pequeño análisis exploratorio de los nuevos datasets donde ya se le asignó una categoría a los [clientes](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Clusters_Clientes_KM.csv) y a los [productos](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Clusters_Productos_KM.csv) para posteriormente volver a implementar 
 un algoritmo supervisado para predecir en qué cluster o categoría caerá cierto cliente o cierto producto. Nuevamente no se obtuvieron resultados favorables, sin embargo se pueden generar 
 algunas conclusiones a partir de la gráfica de dispersión de K-Medias y y las observaciones del primer análisis en [Limpieza_Proyecto](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Limpieza_Proyecto.ipynb).
+
+Puedes ver la presentación del proyecto [aquí](https://docs.google.com/presentation/d/1-s3mtDeqkM5x1EJNy2-Au_0qSocTjG8Gma3V8PnwYRs/edit?usp=drivesdk)

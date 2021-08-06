@@ -25,4 +25,4 @@ Por último se hace un pequeño análisis exploratorio de los nuevos datasets do
 un algoritmo supervisado para predecir en qué cluster o categoría caerá cierto cliente o cierto producto. Nuevamente no se obtuvieron resultados favorables, sin embargo se pueden generar 
 algunas conclusiones a partir de la gráfica de dispersión de K-Medias y y las observaciones del primer análisis en [Limpieza_Proyecto](https://github.com/DianaCV182/Proyecto-An-lisis-de-Datos/blob/master/Limpieza_Proyecto.ipynb).
 
-Puedes ver la presentación del proyecto [aquí](https://docs.google.com/presentation/d/1-s3mtDeqkM5x1EJNy2-Au_0qSocTjG8Gma3V8PnwYRs/edit?usp=drivesdk)
+Puedes ver la presentación del proyecto [aquí](https://docs.google.com/presentation/d/1-s3mtDeqkM5x1EJNy2-Au_0qSocTjG8Gma3V8PnwYRs/edit?usp=drivesdk).
